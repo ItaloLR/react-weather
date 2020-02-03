@@ -2,6 +2,12 @@
 
 ### Execute o comando <code>npm install</code> na pasta do projeto para baixar todas as dependências necessárias para rodar a aplicação.
 
+## :rotating_light: Config
+
+### Renomear o arquivo <code>.env.example</code> para somente <code>.env</code>
+
+## :computer: Iniciando o projeto
+
 ### Inicie o projeto em modo desenvolvimento com os seguintes comandos:
 
 ### <code>npm start</code>
